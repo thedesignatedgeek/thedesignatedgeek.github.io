@@ -1,7 +1,7 @@
-Fresh is a free blog template for Jekyll
-=============================
+Welcome to TheDesignatedGeek Webpage
+====================================
 
-![](assets/img/fresh.jpg)
+![](assets/img/DSCN1255.jpg)
 
 # Demo
 
