@@ -11,6 +11,8 @@ I am currently working on my second book tenatively titled *"Learning Page - A P
 
 You can find Page [HERE](https://sourceforge.net/projects/page/) at https://sourceforge.net/projects/page/
 
+You can find my first blog posting [here](_posts/2018-05-26-first-musings.markdown)
+
 Eventually, I plan to providing an index to all of my Full Circle Magazine articles as well as a link to the code for each article. That will take a while, though. In addition, I plan to provide tips and code for using Python, Page and other things. I will probably slip in a photograph or 12 that I've taken over the years as well as mental musings that I find interesting (that most of you probably won't...but hey, this is my site, right?).
 
 ![Storm in Southern Colorado - July 2006](assets/img/storm1.jpg)
