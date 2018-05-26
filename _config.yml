@@ -1,1 +1,6 @@
 theme: jekyll-theme-cayman
+BASE_PATH : https://thedesignatedgeek.github.io
+markdown: kramdown
+author :
+  name : Greg Walters
+  email : thedesignatedgeek@gmail.com
