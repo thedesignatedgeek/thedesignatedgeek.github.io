@@ -1,7 +1,7 @@
 ---
 title: Full Circle Magazine
 auto-header: none
-icon: fa-comment
+icon: fa-link
 order: 3
 ---
 ## Full Circle Magazine

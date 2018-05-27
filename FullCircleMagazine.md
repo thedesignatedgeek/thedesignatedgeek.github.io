@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Full Circle Magazine
-icon: fa-pencil
+icon: fa-link
 order: 3
 ---
 [Full Circle Magazine](https://fullcirclemagazine.org/) is a free, independent, monthly PDF magazine dedicated to the Ubuntu family of Linux operating systems. Each month, it contains helpful how-to articles and reader submitted stories. 
