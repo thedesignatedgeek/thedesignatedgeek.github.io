@@ -1,11 +1,8 @@
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: page
 title: Full Circle Magazine
-icon: fa-home
-order: 4
+icon: fa-pencil
+order: 3
 ---
 [Full Circle Magazine](https://fullcirclemagazine.org/) is a free, independent, monthly PDF magazine dedicated to the Ubuntu family of Linux operating systems. Each month, it contains helpful how-to articles and reader submitted stories. 
 
