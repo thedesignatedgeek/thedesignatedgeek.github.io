@@ -6,6 +6,8 @@ order: 4
 ---
 # My Articles in Full Circle Magazine
 -------------------------------------
+Note: Currently under construction - There might be some issues.
+
 
  Special Edition | Article # | topic | FCM Issue # | Link to Code |   |
 -----------------|-----------|-------|-------------|--------------|---|
