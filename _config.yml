@@ -59,3 +59,8 @@ google_analytics:
 # The following settings are NECESSARY for the Prologue theme to run:
 remote_theme: chrisbobbe/jekyll-theme-prologue
 collections: [sections]
+
+# Added 2018-05-28 GDW
+plugins: 
+  - jekyll-seo-tag
+
