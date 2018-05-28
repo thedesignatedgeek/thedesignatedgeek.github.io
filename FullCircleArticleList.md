@@ -18,8 +18,8 @@ Note: Currently under construction - There might be some issues.
   1 | 5 | boa constructor Part 1| 31 |   |
   1 | 6 | boa constructor Part 2 | 32 |   |
   1 | 7 | See-quill databases | 33 | currently lost |
-  1 | 8 | database cookbook | 34 | (http://pastebin.com/f1d868e63) |
-  2 | 9 | music database | 35 | (http://pastebin.com/rFf4Gm7E) |
+  1 | 8 | database cookbook | 34 | [http://pastebin.com/f1d868e63](http://pastebin.com/f1d868e63) |
+  2 | 9 | music database | 35 | [http://pastebin.com/rFf4Gm7E](http://pastebin.com/rFf4Gm7E) |
   2 | 10 | xml | 36 |   |
   2 | 11 | Xml – wunderground | 37 | http://pastebin.com/4ibJGm74 |
   2 | 12 | Xml – wunderground continued | 38 | http://pastebin.com/wsSXMXQx |
