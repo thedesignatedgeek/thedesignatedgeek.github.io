@@ -6,7 +6,7 @@ img:
 description: Checkbutton Widgets don't seem to update correctly
 categories: [Python, Page, Tkinter, Widgets]
 ---
-Recently, I wanted to have an Tkinter entry widget change from a disabled state, where no editing is allowed, to a normal state that allows for editing.  At first thought, that seems very simple.  A Checkbutton widget can be used to toggle the Entry widget from state=tk.DISABLED to state=tk.Normal. However, that isn't quite the case. I'll get into that in a moment.
+Recently, I wanted to have an Tkinter entry widget change from a disabled state, where no editing is allowed, to a normal state that allows for editing.  At first thought, that seems very simple.  A Checkbutton widget can be used to toggle the Entry widget from `state=tk.DISABLED` to `state=tk.NORMAL`. However, that isn't quite the case. I'll get into that in a moment.
 
 I used to use Bind rather than Command to respond to button clicks. Bind, by default, always wants to pass an event object to the callback function and I thought that wasn't a bad thing. If I didn't need it, I could simply ignore it in my code. Bind also lets you send additional parameters to the callback function when you need it. Command, however doesn't allow for passing the event as a parameter AND there are some widgets that don't provide a Command option, like the Combobox or Entry widget.
 
@@ -20,7 +20,7 @@ Once done, I decided to work on another project that required multiple  Checkbut
 
 It seems that when using the `<Button-1>` event on a Checkbutton widget (or on a Radiobutton widget), the callback code gets run IMMEDIATELY, before the widget changes state. However, the `<ButtonRelease-1>` changes the state of the widget first, then runs the callback code.
 
-This is a Tkinter issue (NOT an issue with Page) and can even cause issues with normal Button widgets. I found a long time ago that if you have a Button that you bind to `<Button-1>` and within the callback function you call a dialog box, like the askopenfilename filedialog, the button will visually stay in a clicked down mode and never returns to the "up" visual mode.
+This is a Tkinter issue (NOT an issue with Page) and can even cause issues with normal Button widgets. I found a long time ago, that if you have a Button that you bind to `<Button-1>` and within the callback function you call a dialog box, like the askopenfilename filedialog, the button will visually stay in a clicked down mode and never returns to the "up" visual mode.
 
 So, in a nutshell, any widget that changes state that you need the event data to be sent to your callback function, use the `<ButtonRelease>` event, instead of the `<Button-1>` event.
 
