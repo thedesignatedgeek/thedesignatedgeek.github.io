@@ -4,7 +4,7 @@ title:  "Thinking like a GUI programmer in Python"
 date:   2018-05-31 06:00:00
 img:
 description: Thinking
-categories: Python Page GUI
+categories: [Python, Page, GUI, Tkinter]
 ---
 
 As I think back on my career as a programmer I realize that my entire career has always included being a mentor as a major component of my work.

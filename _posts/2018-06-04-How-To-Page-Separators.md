@@ -4,7 +4,7 @@ title:  "Separators in a Page Form"
 date:   2018-06-04 08:15:00
 img: /assets/images/sep-demo.png
 description: How to create Separators using Page
-categories: [Python, Page]
+categories: [Python, Page, Tkinter, GUI]
 ---
 Years ago, when I programmed in Visual Basic, I found that I occasionally needed some separators, just a series of 2 pixel lines, to break up the information on the form.  I didn't need a full frame to do this.  I started off using a 2 pixel light line, but visually that wasn't pleasing enough.  Then one day I was fooling around and found that if I used a frame the width that I wanted, but only set the height at 2, that I had something that looked like it was done using a control (what we called widgets back in those days).  When anyone saw my layouts, they would as me how I did it.
 
