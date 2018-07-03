@@ -5,6 +5,7 @@ date:   2018-06-19 05:15:00
 img:
 description: Checkbutton Widgets don't seem to update correctly
 categories: [Python, Page, Tkinter, Widgets]
+sitemap: true
 ---
 Recently, I wanted to have an Tkinter entry widget change from a disabled state, where no editing is allowed, to a normal state that allows for editing.  At first thought, that seems very simple.  A Checkbutton widget can be used to toggle the Entry widget from `state=tk.DISABLED` to `state=tk.NORMAL`. However, that isn't quite the case. I'll get into that in a moment.
 

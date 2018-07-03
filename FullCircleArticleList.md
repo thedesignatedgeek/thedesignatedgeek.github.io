@@ -3,6 +3,7 @@ layout: page
 title: My Articles in Full Circle Magazine
 icon: fa-pencil
 order: 4
+sitemap: true 
 ---
 # My Articles in Full Circle Magazine
 -------------------------------------

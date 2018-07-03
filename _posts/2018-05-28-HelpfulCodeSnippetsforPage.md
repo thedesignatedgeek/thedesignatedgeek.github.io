@@ -5,6 +5,7 @@ date:   2018-05-28 08:15:00
 img:
 description: First in a series of code snippets for Page and Python.
 categories: [Python, Page, Code Snippets]
+sitemap: true
 ---
 
 First, it is Memorial Day in the U.S. so Happy Memorial Day.

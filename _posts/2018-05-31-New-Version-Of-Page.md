@@ -5,6 +5,7 @@ date:   2018-05-31 14:35:00
 img:
 description: New version of Page
 categories: [Python, Paqe, Tkinter]
+sitemap: true
 ---
 
 Today Don Rozenberg released version 4.14 of Page a GUI designer for Python.

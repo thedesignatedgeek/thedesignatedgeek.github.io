@@ -4,7 +4,8 @@ title:  "Greg's first blog musings"
 date:   2018-05-26 07:00:00
 img:
 description: First thoughts on getting setup on GitHub.
-categories: musings
+categories: [musings]
+sitemap: true
 ---
 Well, here I go. This is my first blog post anywhere. I think that I have to look at this as something like a very short article, similar to what I write for Full Circle Magazine on a (mostly) monthly basis, just with less structure and can be on anything. Well, my articles for FCM can be on pretty much anything, but I **usually** keep them **somewhat** focused on Python. **Mostly**.
 

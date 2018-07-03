@@ -4,7 +4,8 @@ title:  "Getting closer now"
 date:   2018-05-27 05:27:00
 img:
 description: Update on web page.
-categories: musings
+categories: [musings]
+sitemap: true
 ---
 I think that I've finally got a handle on this thing. I've pulled a copy of the master Prologue repo down to my desktop and I started running Jekyll locally. Now I can change things here before it gets too ugly up on GitHub. 
 

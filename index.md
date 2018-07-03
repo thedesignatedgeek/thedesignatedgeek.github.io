@@ -6,4 +6,5 @@ layout: home
 title: TheDesignatedGeek Website
 icon: fa-home
 order: 1
+sitemap: true
 ---

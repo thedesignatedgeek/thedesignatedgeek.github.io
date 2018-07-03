@@ -4,7 +4,8 @@ title:  "Greg's Second blog musings"
 date:   2018-05-26 16:00:00
 img:
 description: More thoughts on getting setup on GitHub.
-categories: musings
+categories: [musings]
+sitemap: true
 ---
 After numerous hours of beating my head on the keyboard of my laptop yesterday, I finally found a Jekyll theme that I both liked the look of and could figure out how to use. HUZZAH!
 
