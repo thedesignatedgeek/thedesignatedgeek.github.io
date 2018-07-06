@@ -4,7 +4,7 @@ title:  "Thinking like a GUI programmer in Python"
 date:   2018-05-31 06:00:00
 img:
 description: Thinking
-categories: [Python, Page, GUI, Tkinter]
+categories: [Python, Page, GUI, Tkinter, center form]
 sitemap: true
 ---
 

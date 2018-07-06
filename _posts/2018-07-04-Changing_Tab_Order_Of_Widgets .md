@@ -4,7 +4,7 @@ title:  "Changing the tab order of widgets on a form"
 date:   2018-07-04 17:30:00
 img:
 description: How to change the tab order of widgets on a form...
-categories: [Python, Tkinter, Page, GUI]
+categories: [Python, Tkinter, Page, GUI, tab order]
 ---
 
 As you might know, the tab order of the widgets on your form by default is determined by the order that you create them.  This isn't just in Page, but also Tkinter in general.
