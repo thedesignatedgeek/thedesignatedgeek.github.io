@@ -31,7 +31,7 @@ Simply create a simple function with the name something like 'tab_order', create
 def tab_order():
     widgets=[w.Entry1, w.Entry2, w.Entry3, w.Entry4, w.Entry5, w.Entry6]
     for wl in widgets:
-        w1.lift()
+        wl.lift()
 ```
 Now, just before your form is shown at runtime, make a call to your tab_order function.
 
@@ -41,4 +41,5 @@ And if you are using Page to do your design, if you are using version 4.14 or gr
 
 Since today is the 4th of July, it's a big day for those of us in the U.S.  So for us, Happy 4th of July.  For those living elsewhere in the world, Happy Wednesday!
 
+(Thank you Halvard for finding the typo)
 _greg_
