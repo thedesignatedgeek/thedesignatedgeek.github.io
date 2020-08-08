@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  "LatestUpdate for August 8, 2020"
-date:   2020-08-04 05:00:00
+date:   2020-08-08 05:00:00
 img: 
 description: Early Morning Update for August 4, 2020
-categories: [Python, Page, Tkinter, GUI, Book]
+categories: [Python, Page, Tkinter, GUI, Book, Full Circle Magazine]
 sitemap: true
 ---
 As promised, here is the latest information on the book and some other things.
