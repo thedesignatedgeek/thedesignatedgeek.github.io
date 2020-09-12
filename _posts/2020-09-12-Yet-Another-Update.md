@@ -15,7 +15,7 @@ Chapter 1 is currently being looked at by the publisher.  We are going back and 
 
 Chapter 1 is basically an introduction to **PAGE** itself starting with an overview of the main windows of **PAGE** and then creating a simple project that really doesn't do much, but shows some of the basic steps in creating a GUI with **PAGE**.
 
-![PAGE book - First Project]({{ "/assets/images/First Project Run.png" | absolute_url }})
+![PAGE book - First Project]({{ "/assets/images/First_Project_Run.png" | absolute_url }})
 
 Chapter 2 will cover creating projects with multiple windows and creating projects with splash screens.  With any luck, I should have it ready to submit to the publisher on Tuesday September 15 for the first edit.  The actual deadline for Chapter 2 is October 6, so I should be way ahead of schedule.  However, the introduction and preface are both behind schedule.  I wasn't expecting to have to split the introduction into both an introduction and preface.  I figured it would all be one chapter.  Oh well, as the saying goes:
 
