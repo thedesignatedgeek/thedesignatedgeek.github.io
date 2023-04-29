@@ -14,8 +14,6 @@ Well, I'm trying to slot more time to keep the blog and website somewhat current
 
 Anyway, what I'm going to talk about is the Tkinter TNotebook and this will be the first part of what I hope will be many "Hacking Tkinter Widgets" type posts here.
 
-
-
 ## The TNotebook Widget
 
 If you don't know what the TNotebook widget is all about, please allow me to give you a little bit of background on it.
@@ -24,11 +22,9 @@ According to the official Tcl/Tk man page, the TNotebook is
 
 >  ttk::notebook — Multi-paned container widget
 
-
-
 That's a very straightforward description, but it really doesn't tell us much about what it looks like.  So, let's take a look at it in a real world use.
 
-<img src="file:///home/greg/designatedgeek/TNotebookStyle1/assets/images/PAGE%207.4%20Widget%20Demo_002.png" title="" alt="" width="572">
+![PAGE Styled Notebook](https://github.com/thedesignatedgeek/thedesignatedgeek.github.io/blob/master/assets/images/PAGEWidgetDemo1.png)
 
 This is a screen shot of the Widget Demo that I wrote for PAGE.  It shows every PAGE supported Tk and ttk widgets.  As you can see, this is a single window application, but I use the ttk.TNotebook to hold various widgets grouped by type.  
 
@@ -114,7 +110,7 @@ master.mainloop()
 
 That's it.  Here is what it looks like in "action"
 
-<img src="file:///home/greg/designatedgeek/TNotebookStyle1/assets/images/TNotebook%20Style%20Demo_raw.png" title="" alt="TNotebook Style Demo_raw.png" width="454">
+![UNStyled_Notebook](https://github.com/thedesignatedgeek/thedesignatedgeek.github.io/blob/master/assets/images/TNotebookStyleDemoRaw.png)
 
 Somewhat boring, but pretty easy, even in straight Tkinter/Python.
 
@@ -149,11 +145,7 @@ In the function, the first thing that we need to do is assign an instance of the
 
 - !active - (Not active) when the tab is not the selected tab and the mouse is not hovering over it.
 
-
-
 The only thing that's left to do is call the function before the form is shown to your user.   To do that simply place the call just before the Tkinter main loop call.
-
-
 
 ```python
 # ===================================================
@@ -167,19 +159,13 @@ setup_base_style()
 master.mainloop()
 ```
 
-
-
 Here is what it looks like after we've added the function and called it.
 
-![](/home/greg/designatedgeek/TNotebookStyle1/assets/images/TNotebook%20Style%20Demo_001.png)
+![Styled_Notebook](https://github.com/thedesignatedgeek/thedesignatedgeek.github.io/blob/master/assets/images/TNotebookStyleDemo1.png)
 
 You can see the selected tab now has a darker gray background with white text, the inactive tabs are a sort of orange background with black text and the active tab (the one the mouse pointer is hovering over) is a light gray with back text.
 
-
-
 That's it for this time, but there will be more Tkinter tricks for the TNotebook in my next post.
-
-
 
 Until we type again, Enjoy life, be safe and keep coding!
 
