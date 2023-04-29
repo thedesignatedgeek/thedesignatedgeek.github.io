@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Tkinter TNotebook Tricks Part 1"
-date:   2023-04-29 10:00:00
+date:   2023-04-29 08:00:00
 img: 
 description: Tkinter TNotebook Tricks Part 1
 categories: [Python, PAGE, Tkinter, GUI, Book, Full Circle Magazine]
