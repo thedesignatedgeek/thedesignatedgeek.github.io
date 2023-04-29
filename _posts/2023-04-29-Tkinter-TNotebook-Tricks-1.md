@@ -165,6 +165,8 @@ Here is what it looks like after we've added the function and called it.
 
 You can see the selected tab now has a darker gray background with white text, the inactive tabs are a sort of orange background with black text and the active tab (the one the mouse pointer is hovering over) is a light gray with back text.
 
+I've created a repository [here](https://github.com/thedesignatedgeek/TNotebookStyling1) with the source code for this post.
+
 That's it for this time, but there will be more Tkinter tricks for the TNotebook in my next post.
 
 Until we type again, Enjoy life, be safe and keep coding!
