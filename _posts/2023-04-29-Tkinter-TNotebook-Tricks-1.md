@@ -24,7 +24,7 @@ According to the official Tcl/Tk man page, the TNotebook is
 
 That's a very straightforward description, but it really doesn't tell us much about what it looks like.  So, let's take a look at it in a real world use.
 
-![PAGE Styled Notebook](https://github.com/thedesignatedgeek/thedesignatedgeek.github.io/blob/master/assets/images/PAGEWidgetDemo1.png)
+![PAGE Styled Notebook]({{"/assets/images/PAGEWidgetDemo1.png" | absolute_url }})
 
 This is a screen shot of the Widget Demo that I wrote for PAGE.  It shows every PAGE supported Tk and ttk widgets.  As you can see, this is a single window application, but I use the ttk.TNotebook to hold various widgets grouped by type.  
 
@@ -110,7 +110,7 @@ master.mainloop()
 
 That's it.  Here is what it looks like in "action"
 
-![UNStyled_Notebook](https://github.com/thedesignatedgeek/thedesignatedgeek.github.io/blob/master/assets/images/TNotebookStyleDemoRaw.png)
+![UNStyled_Notebook]({{"/assets/images/TNotebookStyleDemoRaw.png" | absolute_url }})
 
 Somewhat boring, but pretty easy, even in straight Tkinter/Python.
 
@@ -161,7 +161,7 @@ master.mainloop()
 
 Here is what it looks like after we've added the function and called it.
 
-![Styled_Notebook](https://github.com/thedesignatedgeek/thedesignatedgeek.github.io/blob/master/assets/images/TNotebookStyleDemo1.png)
+![Styled_Notebook]({{"/assets/images/TNotebookStyleDemo1.png" | absolute_url }})
 
 You can see the selected tab now has a darker gray background with white text, the inactive tabs are a sort of orange background with black text and the active tab (the one the mouse pointer is hovering over) is a light gray with back text.
 
