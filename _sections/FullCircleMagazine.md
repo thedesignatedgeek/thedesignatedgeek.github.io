@@ -8,7 +8,7 @@ order: 3
 
 [Full Circle Magazine](https://fullcirclemagazine.org/) is a free, independent, monthly PDF magazine dedicated to the Ubuntu family of Linux operating systems. Each month, it contains helpful how-to articles and reader submitted stories. 
 
-As of January 17, 2019 there are 140 issues of Full Circle Magazine all available for download as PDF files and many as epub format files as well.
+As of April 30, 2023 there are 192 issues of Full Circle Magazine all available for download as PDF files and many as epub format files as well.
 
 The kind folks at FCM have also created a series of special editions of reprints of the Python series written by me that includes Parts 1-60 from FCM#27 through FCM#102 in a single PDF [here](http://dl.fullcirclemagazine.org/issuePC01_en.pdf). These were the "Beginning Programming in Python" series.
 
