@@ -1,5 +1,4 @@
 ---
-
 layout: page
 title: My Articles in Full Circle Magazine
 icon: fa-pencil
@@ -12,7 +11,7 @@ sitemap: true
 
 -------------------------------------
 
-Note: Currently under construction - There might be some issues.
+Note: This page is actively under construction - There may be some missing information.
 
 | **Issue** | **Date** | **Page** | **Article**                                                               | **Code** |
 |:---------:| -------- |:--------:| ------------------------------------------------------------------------- | -------- |
