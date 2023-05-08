@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Tkinter TNotebook Tricks Part 1"
+title:  "MicroPython 1.20 Update Part 1"
 date:   2023-05-08 04:00:00
 img: 
 description: MicroPython 1.20 Part 1
@@ -26,12 +26,8 @@ Anyway, for anyone reading this, I actually DO have an update.  Due to the horri
 
 Finally, a new nightly build for MP 1.20 and is available at [MicroPython - Python for microcontrollers](https://micropython.org/download/rp2-pico-w/) .
 
-
-
 I hope to have another Tkinter TNotebook Trick post for you folks soon. 
 
 Until then, please stay safe, healthy, positive and creative!
-
-
 
 Greg
