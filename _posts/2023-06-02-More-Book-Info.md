@@ -38,20 +38,14 @@ Yes, by adding the freq to the pin definitions or shortly after that, things sho
 
 No information has changed as far as I can tell.
 
-
-
 ## Other Random Things...
 
 I've been thinking about reworking the website here.  It served (and still is serving) it's purpose, but I think it's about time to give it a face lift.
 There is not time frame as to when this might happen.
 
-
-
 ### PAGE 8.0
 
 Don is working VERY hard on updating PAGE from 7.6 to 8.0.  I'm working equally hard to break it as quickly as he brings out fixes.  It **IS** coming, but right now I can't tell you just how soon.  It will have some FANTASTIC updates.  
-
-
 
 Until next time, be safe.
 
